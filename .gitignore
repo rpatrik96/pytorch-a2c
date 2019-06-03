@@ -1,0 +1,7 @@
+# Exclude files and directories
+.idea/
+.vscode/
+
+*.hdf5
+*.npy
+*.pickle
